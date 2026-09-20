@@ -1,0 +1,27 @@
+# Python virtual environment
+python/.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Power BI temporary/backup files
+*.pbit
+*.tmp
+*.bak
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python environment files
+.env
+
+# Large raw data files
+data/raw/
+
+# Local Power BI autosave/recovery files
+*.pbirs
