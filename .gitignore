@@ -25,3 +25,4 @@ data/raw/
 
 # Local Power BI autosave/recovery files
 *.pbirs
+data/processed/fact_electricity_prices.csv
